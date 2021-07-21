@@ -12,6 +12,4 @@ Deploy ```target/WebApp.war``` on Tomcat
  
 #TODO 
 
-
-  hlo
 Add instruction to deploy to ElasticBeanstalk
